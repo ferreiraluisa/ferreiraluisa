@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Lua**
 
-- 💬 Ask me about **C++, Python, Laravel**
-
 - 📫 How to reach me **02luisafsouza@gmail.com**
 
 <div align="center">
