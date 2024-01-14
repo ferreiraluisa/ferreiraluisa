@@ -4,9 +4,9 @@
 
 - 📚 I'm currently studying computer science in [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Unreal 5** and **Computer Graphics Fundamentals**.
 
-- 📫 How to reach me **02luisafsouza@gmail.com**
+- 📫 How to reach me **02luisafsouza@gmail.com** or **luisa.ferreira@ufv.br**
 <br>
 <div> 
   <a href="https://instagram.com/luisafsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
