@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="devlipe" /> </p>
 
 
-- 📚 I'm currently studying computer science in [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
+- 📚 Bachelor in Computer Science from the [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
 
 - 🌱 I’m currently learning **Unreal 5** and **Computer Graphics Fundamentals**.
 
