@@ -1,5 +1,5 @@
 ### Hi there! I am Luísa Ferreira 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="devlipe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="ferreiraluisa" /> </p>
 
 
 - 🎓 Bachelor in Computer Science from the [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
