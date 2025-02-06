@@ -1,12 +1,12 @@
 ### Hi there! I am Luísa Ferreira 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="ferreiraluisa" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="ferreiraluisa" /> </p> -->
 
 
 - 🎓 Bachelor in Computer Science from the [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
 
 - 🌱 I’m currently learning **Unreal 5** and **Computer Graphics Fundamentals**.
 
-- 📫 How to reach me **02luisafsouza@gmail.com** or **luisa.ferreira@ufv.br**
+- 📫 How to reach me **02luisafsouza@gmail.com**.
 <br>
 <div> 
   <a href="https://instagram.com/luisafsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
