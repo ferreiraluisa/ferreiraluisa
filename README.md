@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferreiraluisa&label=Profile%20views&color=0e75b6&style=flat" alt="ferreiraluisa" /> </p> -->
 
 
-- 🎓 Bachelor in Computer Science from the [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/)
+- 🎓 Bachelor in Computer Science from the [Universidade Federal de Viçosa](https://www.ufv.br/campus-vicosa/). Currently, Computer Science Msc student in [Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.informatik.uni-bonn.de/de/studium/master/computer-science-msc).
 
 - 🌱 I’m currently learning **Unreal 5** and **Computer Graphics Fundamentals**.
 
